@@ -3,3 +3,4 @@
 *.pptx
 *.png
 .DS_store
+/rawlogs
